@@ -1,582 +1,4 @@
-Telecommunications General Orders
-A. Purpose:
-To establish guidelines for telecommunications in dispatching calls for service, while not every incident
-or situation is listed, these general orders will provide a framework to assist the telecommunications
-in handling everyday responsibilities.
-
-B. Policy:
-Most often the initial contact the public has with the department is throughout telecommunications
-center. It is vital that telecommunications are provided with guidelines to perform their responsibilities
-efficiently, courteously, and with consistency. It is recognized that the telecommunicator often does
-not have time to review departmental policy while taking a call. However, they should be aware that
-knowledge of departmental policy is an essential element of their occupation, and where conflict
-between these general order and departmental policy occurs, departmental policy should be followed.
-
-COMMUNICATIONS OFFICER MANUAL
-TELEPHONE AND FACSIMILE SYSTEMS
-
-TELEPHONES
-v The administrative telephone used in dispatch operates with multiple incoming lines.
-o Lines are routed through dispatch.
-o Answer as follows: “Ruidoso Police Department, this is [name]. How may I help you?”
-o In order to dial out on one of these lines, you must first press 9, and then dial the number. If the number
-is long-distance, after dialing the number, you will hear a long tone. Enter your long distance code at that
-time.
-v Crime stoppers
-o This is the only line that is not recorded, and is to be used for Crime stoppers tips ONLY.
-o Answer as follows: “Lincoln Co. Crime stoppers” or “Ruidoso Crime stoppers.”
-§ If the caller on the Crime stoppers line wishes to give a tip:
-• Open the Crime stoppers binder and obtain a CS number. Give this number to the caller
-and have them reference it when calling to check on status of the tip.
-• Fill out the tip sheet accordingly, and place it in CID’s box and/or refer to the appropriate
-agency if necessary.
-o Dialing out on this line requires you to first press 9.
-FACSIMILES:
-v There are two faxes hooked up for departmental use. One is located in the communications center, and the other
-is located at the front desk.
-o Front Desk fax number is: 575-258-1145
-o Dispatch fax number is : 575-258-1863
-v Dialing out on the fax does not require pressing any key or code for an outside line first. Simply dial the number
-and press SEND. If the number you are dialing is long distance, enter the phone number, including 1 and the area
-code, then press the PAUSE button and enter your long distance code. Complete the long distance fax by pressing
-SEND.
-CALL-TAKING:
-v The average citizen only has contact with law enforcement three times in their life.
-v On average, two out of every five calls will be a call for service.
-v Never assume that just because a call is coming in on an administrative line, that it will not be an emergency.
-v Always be alert and prepared with your note-taking implements and your equipment ready.
-v You must control the call. Do not be rude, but do maintain your authority as the controller of the call.
-v Avoid long pauses or interruptions in the call flow if possible. Doing so may cause you to lose your control of the
-situation.
-v Each type of call presents a different set of questions and answers that need to be asked and obtained. As
-questioning proceeds, you should be able to determine the priority response for the call, and how to proceed.
-Utilize your reference sheets and familiarize yourself with each type of call you might receive and how respond
-and prioritize the call.
-
-COMMUNICATIONS OFFICER MANUAL
-E911 OPERATIONS
-
-OPERATION OF THE E911 SYSTEM
-v PSAP is an acronym for Public Safety Answering Point. A PSAP is the call center that is designated to handle 911
-calls for a specific geographical area. Within Lincoln County, there are two PSAPs: RPD, AND Lincoln Co. S.O.
-o RUIDOSO PD: generally handles incoming 911 calls for Ruidoso, Ruidoso Downs and the parts of Lincoln Co.
-that surround Ruidoso proper.
-o LINCOLN CO. S.O.: generally handles incoming 911 calls for outlying areas of Lincoln Co. not covered by the
-Ruidoso PSAP, including but not limited to Carrizozo, Capitan, Bonita, Corona and Alto.
-o Although a PSAP may handle a primary area, the dispatcher should be prepared to handle incoming 911 calls
-from all over the state, not just the area that their assigned PSAP normally covers.
-ANSWERING 911
-v When receiving an incoming 911 call, dispatch will be notified by a distinctive ring, and the flashing red/green indicator
-on the Positron E911 screen. (NOTE: To utilize the 911/GIS keyboard, press CTRL, release, and the press 1. To
-revert to the CAD keyboard, press CTRL and then 2.)
-v In order to answer in incoming call, the dispatcher must do the following:
-o Click on the button showing an active incoming call using the mouse.
-v When answering the incoming 911 call, the State of New Mexico mandates that the 911 operator will identify which
-PSAP has received the call. This is done by answering EVERY 911 call in the following manner: “Ruidoso Area 911,
-what (or where) is your emergency?” (Remember that all 911 lines are recorded.)
-v Occasionally, there are multiple incoming 911 calls. When this occurs, it is necessary to determine which trunk the
-active call is coming in on in order to answer it. In order to determine the incoming trunk, you must right click on the
-incoming call button that is showing active. This will pull up a separate box on the upper right hand side of the positron
-E911 screen. That screen will show an active button for the incoming trunk. Each truck is labeled: 911-1, 911-2, 9113. Answering by truck line once the trunk has been determined is the same as answering when a single call is inbound.
-v Once you have picked up the incoming 911 call, you should receive ANI (Automatic Number Indicator) and ALI
-(Automatic Location Indicator) information. The ANI/ALI screen is displayed directly above the incoming call indicator
-buttons. Cell phone callers will not display ANI/ALI information all of the time, but landline callers generally will.
-Regardless of whether or not the call displays ANI/ALI information, always make sure to verify the caller’s location,
-location of the emergency, and the number the caller is calling you from.
-v Upon receiving a 911 call from a wireless phone, wait approximately 15-20 seconds into the call and hit the RTX button
-on the ALI section of the 911 screen (upper right hand side). This will triangulate the location of the 911 caller, based
-on 911 cell towers that the call is bouncing off of. It makes it easier to narrow down the approximate location of the
-caller. You may have to do this more than once.
-v If you find that the caller has hung up prior to your pick-up of the call, or if the caller hangs up immediately after you
-pickup (or during the course of the call), you are REQUIRED to attempt a call-back if possible. Call back should be
-immediate, and you should attempt to call back as many times as required in order to establish voice contact. If you
-are only able to reach voicemail or an answering machine, leave a message identifying yourself, and requesting that
-they attempt to re-contact you in order for you to determine that they are in no need of assistance. Continue to attempt
-to periodically re-contact the caller for at least 30 minutes after the initial hang up, or until you establish voice contact.
-v Should you desire to listen in on another call-taker’s ongoing 911 call, you may do so by right-clicking on the active
-911 call button (lower left-hand side of Positron screen) and then double-clicking on the appropriate trunk line in the
-resulting pop-up window. Note: once you have joined in on the 911 call, your handset is LIVE. You should always opt
-to mute your handset when you are not the primary call-taker. (Click the mute button below the 911 incoming line
-indicator buttons, or hold down the mute button on the handset.)
-
-COMMUNICATIONS OFFICER MANUAL
-
-E911 OPERATIONS (CONT.’D)
-
-ANSWERING 911 (CONT’D.)
-v Once you have handled a call, or have finished listening to a call that another operator is handling, you must select the
-orange “R” button on your Positron screen to disconnect. You may also hit release on your 10-key pad. If you do not
-disconnect the call, you will continue to have an open, live, 911 line.
-TTY/TDD CALLS
-v There are times when an incoming 911 call will have dead air on the other end. This may be a misdial, or it may be a
-TDD (Telecommunications Device for the Deaf) call. TDD is a tool utilized by people with speech or hearing disabilities
-that enables them to communicate via telephone.
-v To recognize an incoming 911 call as TDD, you must listen for a tone. There are some TDD systems that have a
-recording announcing that the call is a TDD/TTY call. IF you do not hear a tone or a recording, but are unable to reach
-anyone by repeating yourself, you should send out a TDD test tone. This will enable the E911 system to connect of
-the caller on the other end is using TDD.
-v
-
-To send a TDD tone, follow these steps:
-o Left-click on the TTY button located in the upper right-hand corner of the ANI/ALI indicator section.
-o When the TTY box pops up, look for the Baudot button on the bottom left-hand side. Left-click. Once you’ve
-done this, the text box above should automatically show incoming text if the call is a TDD call. If clicking on
-the Baudot button is unsuccessful, repeat the steps, using instead the ASCII button. (Be prepared for a very
-loud tone in your ear when using the ASCII button. You may want to hold the phone receiver away from your
-ear until the tone is complete.)
-o If you are successful at connecting with a TDD caller, you may communicate via the messaging box in your
-TDD screen. (See reference sheets for proper TDD protocol.)
-
-TRANSFERRING CALLS
-v Because Ruidoso PD is a PSAP for several jurisdictions, you will find that there are times when a transfer to another
-agency is required. There are two ways to transfer a call to another agency.
-v For agencies that are routinely transferred 911 calls (LCSO, BIA, RDPD), you may left-click on the button labeled with
-the appropriate agency name. These buttons are located at the bottom right-hand corner of the Positron screen.
-v For agencies that are not listed on the quick-button transfer, right-click on the agency transfer button on the top row of
-the transfer buttons. (The button will have “right click to view” listed on it.) This will bring up a separate menu that you
-may select from in order to transfer to the appropriate agency by left-clicking.
-I.T.R.R. AND ROLODEX FEATURES
-v Positron has enabled the dispatcher to access recording for recent radio and 911 traffic by utilizing the I.T.R.R. (Internal
-Telephone and Radio Recorder). You access this feature by selecting the ITRR button on the top left hand side of
-your Positron screen. Once the ITRR has popped up, you may select either telephone or radio recordings to listen to,
-or if you so desire, you may listen to telephone and radio recordings simultaneously. You also have the option to save
-the recordings on your terminal for quick access later.
-v Positron is also equipped with a rolodex feature, enabling the dispatcher to access numbers, addresses and additional
-information for multiple resources. You may select the rolodex by left-clicking the rolodex icon on the upper left-hand
-side of your Positron screen. You may search for information in a number of ways, including card name, type of
-contact, etc.
-
-COMMUNICATIONS OFFICER MANUAL
-E911 OPERATIONS (CONT.’D)
-
-OPERATION OF THE GEOGRAPHIC INFORMATION SYSTEM (GIS) MAP
-The GIS map is integrated with E911. Whenever a 911 call comes in on a land line and is associated with a verified
-address, the GIS will plot the location the call came from on the map. In the case of some 911 cell callers, the address
-plotted on the map will refer to the cellular tower that the cell call was placed from. The plotted location will remain on the
-map for a minimum of one minute after the disconnection of the call. DO NOT RELY SOLELY ON THE LOCATION
-PLOTTED ON THE MAP TO OBTAIN YOUR DISPATCH ADDRESS. IT IS NOT ALWAYS CORRECT OR RELIABLE.
-The GIS map is to be used only as a tool in addition to, not in place of, verifying the address with your caller.
-v It is also possible to enter addresses to be plotted on the map. In order to find an address on the map, you must select
-the “SEARCH” tab on the left-hand side of the screen, next to the map.
-o
-
-Under the SEARCH tab, click on the LOCATION field. Type in your address with minimal information. (For
-example, use “332 Sudderth” not “332 Sudderth Drive, Ruidoso.”) The address should turn bold if it is verified,
-and then automatically plot on the map after you press the ENTER key.
-§ To plot intersections, use the following format: Sudderth/Mechem
-
-o
-
-There is a COORDINATES tab under the LOCATION tab. If you left-click on the COORDINATES tab, the
-address that you plotted on the map will show GPS latitude and longitude coordinates, which is particularly
-helpful for people lost that have only GPS coordinates to provide.
-§ Under the COORDINATES tab, you also have the option to enter latitude and longitude in order to plot
-a location.
-§ This feature will be used more by the Sheriff’s Office and State Police; however, you should make an
-effort to familiarize yourself with the function should they request your assistance, or should you
-receive the 911 call for help that has only latitude and longitude for a location.
-
-o
-
-Under the SEARCH tab, there is also a field to enter “NEW PIN DESCRIPTION.” This is used to title or mark
-specific pinpoints on the map. For example, if you have an officer stationed on a perimeter, or hydrant location
-that your need to mark, you may select the NEW PIN DESCRIPTION field and enter the officer’s badge
-number, or a name for the hydrant, then enter the address or intersection in the LOCATION field, and then hit
-the ENTER key. GIS will then plot the location on the map, titling it with the name you have chosen.
-§ You may plot as many pins as necessary
-§ Once you’ve finished with the pins you’ve set, you can clear them by selecting the “CLEAR PINS” icon
-in the top center of the GIS screen, right under the blue title bar.
-
-v It can also helpful to plot the address on the ArGIS map provided by the Village GIS Coordinator. This map clearly
-defines the boundaries for the Village of Ruidoso. You can access the map by going to the following web address:
-https://www.ruidoso-nm.gov/planning-zoning-1 and selecting the “VIEW LARGE ONLINE ZONING MAP” option.
-
-COMMUNICATIONS OFFICER MANUAL
-EMERGENCY MEDICAL DISPATCH (EMD)
-
-A NOTE REGARDING EMD: As PSAP 911 operators, we are the FIRST first-responder on the scene of a medical
-emergency. When callers contact 911 in the event of any emergency, we are the first line of help and defense they have
-for resolving the situation. Often times, it is our ability to adequately perform our duties that means the life or death of the
-person needing emergency assistance.
-As a result, we are required to be certified to give medical instruction and direction to callers. Doing so begins medical
-treatment for the patient in need, and often, may save the person’s life. Doing it properly also protects us from liability if a
-patient’s condition worsens and they suffer severe injury, disfigurement or death.
-With the responsibility of providing Emergency Medical Dispatch, you, as the 911 operator, are also charged with the
-burden of liability. Therefore, once you begin giving emergency assistance, you are required to follow through with the
-patient, giving instruction and direction, as well as maintaining communication via 911 line until a scene responder arrives
-(paramedic or EMT). Failure to do so could mean that not only is the PSAP liable if the person dies or is incapacitated, but
-you are also personally held responsible.
-MAKE SURE THAT YOUR USE OF EMD IS RESPONSIBLE, THOROUGH, AND TO THE LETTER OF STANDARD
-OPERATING PROCEDURE.
-Until you are sent to the proper EMD course and receive your certification, you are not to provide emergency medical
-dispatch unless it is at the direction and under the direct supervision of a certified EMD provider.
-v At each dispatch console, there is a black hard-back binder that, when opened, contains a MEGAcall EMD flipchart.
-This flipchart contains pre-arrival medical instructions that can be provided to the caller in the case of a medical
-emergency.
-v When a 911 call is received and it is determined that it is a medical emergency, the 911 operator should immediately
-pull out the EMD flipchart and begin giving pre-arrival instructions to the caller.
-v Using the MEGAcall flipchart:
-o Begin on the right-hand, top side with the Dispatch Flow Chart. Ask each question, in order, and as verbatim
-as possible.
-o
-
-Once the answers have been obtained to the initiation card, provide that information to emergency medical
-responders and then select the appropriate card in the flip chart for the patient’s chief complaint/symptomology.
-
-o
-
-Each card should be read verbatim, beginning with the KEY QUESTIONS section, making sure to update the
-responders with the answers given to the questions asked of the caller.
-
-o
-
-Once all of the medical questions have been asked and answered, begin giving the PRE-AMBULANCE
-INSTRUCTIONS listed below the key questions.
-
-o
-
-Below the PRE-AMBULANCE INSTRUCTIONS there is a section with additional information that might be of
-help to the dispatcher.
-
-v With every medical call, it is important to remain on the line with the caller, even after pre-arrival instructions have been
-given, until the scene responders arrive at the location. This prevents too long a delay in relying updated patient
-information in the event that the patient’s condition changes or worsens, or in the case of the patient’s death.
-v It is also helpful to make sure to determine if there are any pets that are at the residence, or inside the residence. If
-so, ask that the caller secure them if at all possible before scene responders arrive. Waiting until the paramedics arrive
-to determine that there is a yard full of vicious dogs doesn’t help the patient, and it puts the responders in danger.
-
-It is recommended that you also familiarize yourself with call-taking techniques regarding hysterical
-callers, as medical calls very often are initiated by callers that are hysterical or in a state of panic and
-shock.
-
-COMMUNICATIONS OFFICER MANUAL
-THINGS TO REMEMBER
-
-VOICE: Keep in mind that this is the caller’s first impression of you. First impressions are very important and
-can make someone feel comfortable or very uncomfortable. Keep this in mind while you are talking to them.
-PITCH: High or low – Speech experts say a low-pitched voice is more desirable because it projects and carries
-better. It is also more pleasing to the ear and generally has a calming effect.
-INFLECTION: Don’t talk in monotone. Use feeling to express an idea or mood. Rising inflection toward the
-end of a sentence is very helpful.
-COURTESY: Common, everyday courtesy should be used in the same way you would face to face. It may be
-more important because you cannot see the person to whom you are speaking, and thusly, they are unable to
-read your body language. It’s better to be overly courteous than not courteous enough.
-TONE: Many times, it isn’t what you say, but how you say it. Your voice should reflect sincerity, pleasantness,
-confidence and interest.
-UNDERSTANDIBILITY: Avoid talking with anything in your mouth. Also make sure to speak directly into the
-phone or radio.
-RATE: The basic rate of speech is 120 WPM. If you speak too rapidly, people start listening to your rate of
-speech instead of to what you are saying. If you speak too slowly, it can be irritating to a listener because he is
-kept hanging on every word and tends to anticipate what you are going to say. Speaking too slowly may also
-give the impression that you are not concerned with their problem.
-ENUNCIATION: The English language is full of similarities – T & D, P & B, E & V. Clear enunciation will help
-avoid misunderstanding and reduce the need to repeat yourself.
-TELEPHONE GREETING: Because all calls are potential emergencies, you must promptly answer all incoming
-calls. If you are not able to immediately handle the call because of incoming 911 calls, radio traffic, etc., ask
-the caller, “Do you have an emergency?” If their response is negative, then you may tell them to “hold, please.”
-If the caller’s response is affirmative, then handle the call and prioritize accordingly.
-VOICE QUALITY: You should speak slowly and clearly on the telephone and with adequate volume. If callers
-cannot hear or understand you, you will have to repeat questions and instructions, which wastes time. Your
-voice should project authority and knowledge, backed up by a certainty of what you are telling the caller. If you
-are hesitant or seem unsure, the caller will probably question your answers or ability to help. If the caller has a
-question you don’t know the answer to, tell them that you don’t readily know the answer, but that you will find
-out for them if they don’t mind waiting for a few moments.
-ETIQUETTE: When dealing with all callers, you are required to maintain a polite and friendly tone. If the caller
-has a legitimate request of the Police Department, dispatch an officer and do not become involved in an
-argument. If the caller clearly does not have a problem, but persists in talking, refer them to the proper agency
-and then tell them that you have other calls to answer. If you determine that you cannot provide a service to a
-caller, explain to them why you can’t and refer them to someone who can, if possible.
-CONTROL OF THE CONVERSATION: It is important that you maintain control of all telephone conversations
-so that you can obtain all the necessary information in the least amount of time. Talkative or insistent callers
-are difficult to question and may take a longer time, and more patience, on the part of the call-taker.
-
-COMMUNICATIONS OFFICER MANUAL
-TYPES OF CALLERS
-
-ANGRY/HOSTILE CALLER
-Treat all callers with respect and courtesy. Understand that certain people react with anger and hostility when
-frustrated, frightened or upset. You have a responsibility to help all callers, not just the polite ones. You are
-responsible for controlling the call. You can do this by speaking quietly. If you speak quietly and don’t react
-negatively to their anger and hostility, your manner and the tone of your voice will usually calm the caller. Don’t
-take a hostile caller personally. Try to understand their point of view and be empathetic.
-HYSTERICAL CALLER
-Explain that you need them to calm down so you can get the information you need to help them. Suggest that
-they try taking deep, regular breaths. Use repetitive persistence. Repeat your questions with the exact same
-wording and tone until you get an answer. If the caller lapses into hysteria, use the same techniques to calm
-them down again.
-INTOXICATED CALLER
-Be patient and courteous. Get as much information as you can. Intoxicated callers are often unreasonable.
-Be patient and calm.
-MENTALLY UNSTABLE CALLER
-Be patient and courteous. Determine the exact nature of the problem. Chronic callers should be treated the
-same as others. Realize that chronic callers can have legitimate emergencies too. Never “play” with a person
-with mental health problems.
-VERY YOUNG CALLER
-Try to use words appropriate for their age level. If they don’t know their address, ask for their name and for
-landmarks. Ask if they know the ABCs and 123s. Can they look at mail and read the address? Can they look
-at numbers on the front of the house? Ask for parents’, grandparents’ or teachers’ names. Ask if there is a
-neighbor nearby that can talk with you. Ask where their parents work, where they go to school, or what their
-babysitter’s name is. Children usually have much of the needed information. You need to be very persistent
-and imaginative in finding different ways to get the information you need.
-VERY OLD CALLER
-Be patient, courteous and respectful. If caller seems to have difficulty hearing you, speak more slowly and
-enunciate very carefully.
-SPEECH IMPAIRED CALLER
-Be patient and calm. Try to calm the caller. Stress and excitement can sometimes worsen impaired speech.
-If you are short or seem to be rushing the caller, you could be causing them more stress.
-INDECISIVE CALLER
-This type of caller is apprehensive and slow to speak. They are sometimes hesitant to give information and will
-pause a lot. Reassure the caller that they have done the right thing by calling and that they will receive help.
-Clarify information that they have given so that they know you have understood. After clarifying the information
-given, explain what you are going to do.
-CALLER IN SHOCK
-These callers may be very calm and will not have much emotion at all. Be sure to pay very close attention to
-everything that is said. This may allow you some insight and make you aware that the person is in shock. This
-is important, as a person who is going into (or has gone into) shock may become a separate medical emergency.
-
-COMMUNICATIONS OFFICER MANUAL
-QUESTIONING AND LISTENING TECHNIQUES
-
-CONVERSATIONAL STYLE
-Watch your tone and volume. Watch your pace in regard to the type of caller you have on the line. Be very
-considerate of the emotional state of the victim. Remember that the first two words of the conversation are
-usually lost. Watch for the numbers game, i.e. hysterical callers transposing numbers. Remember that the
-complainant gives the location and the operator verifies. Take notes as you are handling the call.
-PUTTING THE CALLER ON HOLD
-Let the caller know you are putting them on hold. Return promptly and always thank them for calling. Let them
-know that responders will be sent if applicable.
-BONDING
-Get the caller’s name and use it. Treat them like a person, not just the next call in line.
-RELUCTANT CALLERS
-Reassure them that you will help them if you can. If you can’t help them, refer them to someone that is able to
-do so. Request information, don’t demand it. Don’t lie to the caller.
-UNDERSTANDING THE COMPLAINANT
-Be careful not to minimize the information given to you. Don’t try to explain it away. Listen to the caller and be
-aware of his/her emotions, hopes, fears, perceptions, values, age level, etc. It is not necessary to agree or
-accept the caller’s perception or point of view; however, an effort should be made to understand it. It is helpful
-to articulate to the speaker exactly what you understand to be the problem.
-ASSUMPTIONS
-Don’t assume every situation is the same. Treat every complainant fairly and individually. Don’t try and deceive
-the caller.
-ANGRY CALLER
-Remember that all anger originates with the caller. Anger is a choice and secondary reaction. Try not to make
-things worse by participating in their anger.
-HOW TO HANDLE OVERLY ABUSIVE PEOPLE
-Cue yourself to sit or stand still. Assume an open posture if dealing with a complainant in person. Try to
-depersonalize the situation by remembering that their anger is at the situation, not you, and you cannot control
-the thoughts and emotions of the caller. Listen to the complete explosion. Ignore name calling and profanity
-and don’t interrupt. Remember that there may be more attacks. Tell them you will help if you can. Use the
-echo method – repeat things back to the caller to verify that you got them correct. Don’t rush them.
-Transfer/refer caller to a supervisor if it cannot be controlled.
-
-COMMUNICATIONS OFFICER MANUAL
-THINGS TO THINK ABOUT
-
-The average citizen only has contact with law enforcement 3 times in their life.
-It’s important to always be ready and alert with your equipment and note taking implements at hand. An average
-of 2 out of 5 phone calls received by dispatch are calls for service.
-Be aware of your voice inflection and tone, and remain calm. This will help the caller remain calm as well.
-Be aware of your own bias, prejudices and past experiences that may interfere with your judgment. Keep an open
-mind and be willing to change your opinions and options.
-Avoid assuming anything about another person’s problem. Listen to what they have to say.
-Stay positive and focused.
-Remember to repeat what the caller has said so that they know that you are listening.
-Always maintain a business-like attitude, even if the situation seems humorous or funny. You should sound
-empathetic and never make light of a caller’s situation. Don’t make jokes or relate stories to illustrate a point. The
-caller may not get the punch line. Don’t try and be funny.
-Never try to educate a caller in terminology or the law. You may just make the caller feel dumb or start an argument.
-For example, if a caller says that they’ve been “robbed,” don’t explain that it’s really a burglary.
-The most effective tactic is to ask short, specific questions; such as name, address telephone number, location
-etc. The questions should obtain relevant information and should maintain a good flow, free of interruptions. If
-you pause too long in questioning, or become sidetracked or distracted, your control of the conversation will end
-and you’ll have to re-establish it.
-Remain calm under pressure. Prioritize and make immediate decisions. Use clear speech and good listening
-skills. Hesitation on your part may make the caller feel as if you are incompetent. Refrain from the use of stall
-tactics in speech such as “um” or “hmm.”
-Listen to what the caller is saying, but also listen for background noise that may help clue you in as to location or
-situation. For example, listen for anyone yelling in the background, dogs barking, person choking or gasping, or
-location specific noises such as slot machines or construction noise.
-Never walk away in the middle of a call, regardless of situation. Just because your shift’s end has arrived and
-does not give you the right to walk away from the console without following through on your responsibilities. Doing
-so means you’ve just abandoned your post and it makes you, as well as the Department, liable for anything that
-may happen as a result. You could be personally sued and/or lose your job as a result.
-Think before acting or speaking. Foresee possible problems and plan solutions.
-Ask for details. Remember that if a caller says the suspect left “in a red car,” asking them for details may mean
-obtaining more information that helps to catch the suspect. Ask them if it was a dark red car, or bright red. Ask
-them if it was small or large. Ask if it had two doors or four, and if the vehicle was a hatchback or had any other
-distinguishing features. People generally remember if prompted.
-Make an accurate assessment of possible risks to field units. Be complete in your questioning and, in the case of
-medical calls or in-progress calls, keep the caller on line if safe to do so. Relay information obtained to your
-responders in a timely manner. After the officer arrives and advises “shots fired” is NOT the time to remember that
-there might be weapons present. Check persons involved for history and warrants if you can. OFFICER SAFETY
-COMES FIRST!!!
-Treat every caller’s problem if it was your own, and there will be NO PROBLEM.
-
-COMMUNICATIONS OFFICER MANUAL
-
-MEDIA SYSTEM
-Use the MEDIA SYSTEM: Who, What, When, Where, Why, Weapons, How
-WHO
-v Who is the calling party?
-v Who is involved in the situation?
-v Physical descriptions:
-Ø Name (if known)
-Ø Gender
-Ø Race
-Ø Height/Weight
-Ø Hair (Color, style, length, etc.)
-Ø Eyes (Color, glasses worn, other distinguishing features)
-Ø Facial description (acne, facial hair, scars, shape of face, etc.)
-Ø Clothing (Think top to bottom: hat, shirt, jacket, pants/skirt/shorts, socks/shoes)
-Ø Accessories (belts, jewelry, watch, etc.)
-Ø Scars/Marks/Tattoos
-Ø Special descriptors (Any special method of speaking? Accent? Distinctive walk? Appear intoxicated? Etc.)
-WHAT
-v What is going on?
-v What do you need? (Police, Fire, EMS)
-v What happened?
-v What is the problem?
-v What is the caller’s name?
-v What kind of vehicles are involved?
-WHEN
-v When did this happen? Is it happening now?
-v When did suspect leave?
-v When did you first notice the problem/situation?
-WHERE
-v Where did this happen (address/phone)? (Location address)
-v Where are you (address/phone)? (Caller address)
-v Where do responders need to report to (Address/phone)? (Report address)
-v Where is the suspect/offender?
-v Where is the victim?
-WHY
-v Why is the problem occurring?
-v Why are you upset, what is wrong?
-WEAPONS
-v Where are the weapons?
-v What kind of weapon (gun, knife, bat, mace, etc.)?
-v (If applicable) Is the weapon loaded/armed?
-HOW
-v
-v
-v
-v
-
-How did you find out about this? (If caller involved, find out how.)
-How many people are involved?
-How long has it been since situation occurred?
-How long, if applicable, has subject/item/vehicle been missing?
-
-Write down everything significant that the caller is saying – do not rely on your memory. If necessary, tell the
-caller to slow down. A caller reporting a crime in progress should be kept on line as long as safely possible, or
-until responders arrive. During this time, additional information can be obtained and passed on to the responders.
-
-COMMUNICATIONS OFFICER MANUAL
-
-CALL PRIORITIZATION
-Calls for service should be prioritized for response based on the likelihood of loss of life, limb, or property. Call prioritization
-falls under four (4) categories: Emergency, Priority 1, Priority 2, and Priority 3.
-EMERGENCY CALLS: Require immediate dispatch
-
-•
-•
-•
-
-There is an immediate threat of violence or loss of life.
-Crime or incident is in progress.
-Examples of Emergency Calls can include: Active shooter, CSP in progress, Kidnapping, Homicide, Violent
-Domestics, Shooting/Stabbing, Aggravated Battery, Robbery, Structure Fire, Man Down (no breathing/CPR in
-progress), etc.
-
-PRIORITY 1 CALLS: Require dispatch within 2 minutes
-
-•
-•
-•
-
-There is an immediate threat to property, or high chance of apprehension of suspect or prevention of
-violence.
-Crime or incident is in progress, or just occurred
-Examples of Priority 1 Calls can include: Verbal Domestics, Burglary in Progress (unless resident is inside the
-home during commission of burglary, then it would be an emergency call), DWI, Hold-up/Panic/Medical
-alarms, Trouble to Ensue, Fights, Traffic Crash with injury, etc.
-
-PRIORITY 2 CALLS: Require dispatch within 10 minutes
-• There is no immediate threat to life or property, but response needs to be faster than a report call.
-• Crime or incident is not in progress, or has not just occurred, but there is a chance delay in response might
-result in an escalation or commission of a crime.
-• Examples of Priority 2 Calls can include: General burglary alarm calls, Welfare checks, loose dog and most
-animal calls, non-injury traffic crash, Traffic obstruction or direction, Suspicious persons/vehicles/activity,
-Civil standby, etc.
-PRIORITY 3 CALLS: Should be dispatched as soon as all other priority calls have been handled.
-• There is no immediate threat to life or property, and holding to call for an available unit will not negatively
-impact the outcome.
-• Crime or incident is not in progress, or has not just occurred, and there is little to no likelihood that it could
-escalate or result in commission of a crime.
-• Examples of Priority 3 Calls can include: All delayed report calls, Close Patrols, Parking Violations (unless
-there’s an altercation over the parking violation, or it is obstructing traffic), meet complainant calls, etc.
-
-Note: If you are unable to dispatch a unit within the allotted time, then you should broadcast that you
-have a call pending, indicating the type/nature of call, within that time frame.
-
-COMMUNICATIONS OFFICER MANUAL
-
-CRIME STOPPERS TIP LINE
-Communications is responsible for handling the Crime Stoppers Tip Line and for taking donations to Crime Stoppers as
-assigned by the Courts and Probation/Parole Office.
-HANDLING CRIME STOPPERS TIPS:
-v All Crime Stoppers tips will be logged by the dispatcher. There is a Crime Stoppers Binder on the back shelves in
-dispatch that should be pulled whenever a tipster calls in.
-v The Crime Stoppers binder contains the following:
-o Lincoln County Crime Stoppers Donation Form (found in the front pocket)
-o Ruidoso Crime Stoppers Reference Numbers list (found in a plastic sleeve)
-o Completed Crime Stoppers Questionnaire (found behind the Reference number sheet)
-o Blank Crime Stoppers Questionnaire (found in the back pocket)
-v Crime Stoppers Tips should be documented on a blank Crime Stoppers Questionnaire. Each questionnaire should
-be assigned a “Caller ID Number” at the top of the sheet. This number is found on the Reference Numbers List at
-the front of the binder. This number must be provided to the caller before the end of the call. In order for the caller
-to collect any reward money, or to find out updates on the tip, they must reference this number.
-o
-
-REFERENCE NUMBER SHEET: Dispatch should log a brief description of the nature of the tip next to the
-Reference Number, and should document the date/time the tip was received, then initial under “call taker
-initials”
-
-o
-
-CRIME STOPPERS QUESTIONNAIRE: Assign the Caller ID number obtained from the Reference
-Number sheet to the top of the Questionnaire and then question the tipster according to the sections listed
-on the sheet.
-§ Once the questionnaire is complete, Dispatch should notate what was done with the tip in the
-“Investigator Notified” space.
-Ø
-
-If the tip is pertinent to an ongoing case in another jurisdiction, or is a report of a crime in
-which another agency or an RPD unit should respond to, then the dispatcher will indicate
-who was contacted. A copy of the completed tip sheet will then be included in the binder
-behind the other completed sheets, and the original will be placed in the Evidence
-Custodian’s box.
-
-HANDLING CRIME STOPPERS DONATIONS
-v Regularly, citizens are directed by the Courts, or by Probation/Parole to come make a donation to Crime
-Stoppers as part of their restitution or sentence for minor infractions. Dispatch is responsible for taking the
-donation and securing it to be turned over to Crime Stoppers.
-o
-
-Donations will be taken in the form of cash or money order only, and it must be exact. We do not provide
-change.
-
-o
-
-The date and time of donation, the donator name and address, the court that referred the donator, as
-well as the amount of the donation should all be recorded on the Donation Form. If the donator is making
-the donation on someone else’s behalf, notate that information next to the “Donator Name” on the form.
-
-Once the donation has been taken, and the Donation Form has been completed, have the donator sign the form, as well
-as the dispatcher who took the donation. Once signatures have been made, provide a Xerox copy of the form to the donator
-as a receipt, and place the original in a sealed envelope along with the funds donated. The sealed envelope will then be
-marked “Crime Stoppers” and placed in the Evidence Custodian’s box.
-
-COMMUNICATIONS OFFICER MANUAL
+COMMUNICATIONS OFFICER MANUAL
 
 CALL SPECIFIC QUESTIONING
 ACCIDENTS
@@ -667,30 +89,30 @@ of dispatch. (Active Shooter Response classes are frequently held as part of CE 
 are not a specialized response. Active shooters are a patrol dilemma. It will be regular duty patrol that will be
 responding and handling the situation.
 Early warning signs that a call may be an active shooter include;
-• An onslaught of calls in a compact period of time
-• Open line calls with muffled sounds
-• Sounds of shots being fired without a caller speaking
-• Seemingly unrelated explosion of fire calls that begin to form a pattern on a mapping system
-• Fire alarms (latest strategy is to pull an alarm inside to drive victims outside to a waiting sniper)
+An onslaught of calls in a compact period of time
+Open line calls with muffled sounds
+Sounds of shots being fired without a caller speaking
+Seemingly unrelated explosion of fire calls that begin to form a pattern on a mapping system
+Fire alarms (latest strategy is to pull an alarm inside to drive victims outside to a waiting sniper)
 Special considerations Communications Personnel need to take regarding response:
-• Number of shooters and location updates
-• Where to send/position responders for containment and safety
-• Secondary issues such as snipers, bombs, hostage taking
-• Escaping suspects
-• Large groups of people moving in an out of the area and the anticipated effect thereof.
-• Safety for responders at triage areas b/c of amount of emotional response within those areas
-• Evacuations or sheltering in place plans and the special needs of each
-• Traffic control
-• Alarms
-• Explosions and fires in conjunction with shooter activity
-• THE MEDIA. The media will ALWAYS be an interference during call processing and response. You will likely
+Number of shooters and location updates
+Where to send/position responders for containment and safety
+Secondary issues such as snipers, bombs, hostage taking
+Escaping suspects
+Large groups of people moving in an out of the area and the anticipated effect thereof.
+Safety for responders at triage areas b/c of amount of emotional response within those areas
+Evacuations or sheltering in place plans and the special needs of each
+Traffic control
+Alarms
+Explosions and fires in conjunction with shooter activity
+THE MEDIA. The media will ALWAYS be an interference during call processing and response. You will likely
 receive as many calls from the media as you do from the public and victims on scene. Quick establishment of a
 PIO or media notification system is integral and should be a priority of your incident command. Current trend is for
 PIO/IC to use social media to make quick and effective regular updates.
 Questioning / Dispatching techniques and considerations:
-• Active shooter incidents will be chaotic and panicked. It is imperative that you exercise repetitive persistence and
+Active shooter incidents will be chaotic and panicked. It is imperative that you exercise repetitive persistence and
 take command of the call. Establish control so that you can quickly obtain and relay information.
-• Once a call is determined to be an active shooter situation, call for 10-3 traffic. Securing the channel for emergency
+Once a call is determined to be an active shooter situation, call for 10-3 traffic. Securing the channel for emergency
 traffic related to the call only is imperative.
 
 COMMUNICATIONS OFFICER MANUAL
@@ -698,50 +120,27 @@ traffic related to the call only is imperative.
 CALL SPECIFIC QUESTIONING
 ACTIVE SHOOTING RESPONSE (cont.’d)
 Questioning / Dispatching techniques and considerations:
-• An active shooter incident should be dispatched like a lawn mower theft that should’ve been called in 2 weeks ago:
+An active shooter incident should be dispatched like a lawn mower theft that should’ve been called in 2 weeks ago:
 CALM, COLLECTED & with as LITTLE EMOTION as possible. (One key to remaining calm is to understand on
 scene operations.)
-•
-
 Remember the formula: 5W + H + W + H + I (Where, What, Who, When, Why, How, Weapons, Hazards, Injuries)
-
-•
-
 Repeat radio transmissions. Repeat yours, and repeat theirs back to them. Active shooter events often have
 multiple distractions (alarms, injured victims, etc.) and repeating transmissions helps both communications and
 responder personnel focus, as well as repeats anything that they may have missed due to those distractions.
-
-•
-
 Keep abreast of any off-duty responders that may be responding after hearing the call out. Obtain descriptions and
 information on those off-duty officers and relay it expeditiously to the on-duty responders enroute to the scene to
 avoid off-duty responders being mistaken as suspects or additional victims.
-
-•
-
 While responders are enroute, DO update shooter information, location and description as it changes. Often,
 active shooter incidents move incredibly fast, so accurate and timely updates on suspect and threat information is
 vital. You do far more good by focusing attention on gathering and giving information because harm has already
 been done to the victim.
-
-•
-
 Medical information and updates take a back seat until the shooter is neutralized. Dispatch should obtain number
 of injured, casualties and injury type, but that information should be held until the shooter is down or in custody.
-
-•
-
 Once officers have made entry to the scene, having the control to remain silent on the radio is critical to officer
 safety. Radio transmissions could give away the responder location to the shooter.
-
-•
-
 Status checks are made only according to operations protocol. If there is no specific preferred policy established
 by IC, then every 10-15 minutes is a good general standard unless a team is clearing a building or area. In that
 case, radio silence is priority.
-
-•
-
 Unless the caller tells you they are hiding and “sheltering in place,” try and obtain caller information. If they are
 hiding and sheltering, and it is not safe to talk, then try to obtain clues about shooter information from background
 noise. Dispatch should try to give callers the reason to stay away from arriving responders to avoid the risk of the
@@ -751,18 +150,9 @@ follow the direct orders of the responder and do not cling unless specifically i
 remain close. If the caller makes the choice to run, or evacuate the premise to a safe place, update the responders
 and again remind the caller to avoid grabbing responders or using them as shields, but instead to follow any
 instructions given by police without hesitation.
-
-•
-
 Once the shooter is down or neutralized, dispatch can focus information giving to the casualties or the wounded.
-
-•
-
 Once the shooter is down or neutralized, holding the perimeter is critical and control at the staging and triage area
 is vital to responder safety.
-
-•
-
 Work with your team in the communications center to sort out and coordinate information before giving it out on
 the radio, both during the initial calls and response and during the aftermath/shooter neutralized phase.
 
