@@ -1,18 +1,26 @@
+import textract
+from langchain.chains import ConversationalRetrievalChain
+from langchain.llms import OpenAI
+from langchain.chains.question_answering import load_qa_chain
+from langchain.vectorstores import FAISS
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.document_loaders import PyPDFLoader
+from transformers import GPT2TokenizerFast
+import matplotlib.pyplot as plt
+import pandas as pd
+import openai
+import os
 from pymilvus import MilvusClient
 from langchain.document_loaders import UnstructuredFileLoader
 
-import os
-import pandas as pd
-import matplotlib.pyplot as plt
-from transformers import GPT2TokenizerFast
-from langchain.document_loaders import PyPDFLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import OpenAIEmbeddings
-from langchain.vectorstores import FAISS
-from langchain.chains.question_answering import load_qa_chain
-from langchain.llms import OpenAI
-from langchain.chains import ConversationalRetrievalChain
-import textract
+from dotenv import load_dotenv
+
+# Load environment variables from the .env file
+load_dotenv()
+
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 
 doc = textract.process("./dispactManual.pdf")
@@ -35,7 +43,12 @@ for chunk in chunks:
 
 # Get embedding model
 # embeddings = OpenAIEmbeddings()
-
+response = openai.Embedding.create(
+    input="Your text string goes here",
+    model="text-embedding-ada-002"
+)
+embeddings = response['data'][0]['embedding']
+print(embeddings)
 
 # Initialize a MilvusClient instance
 # Replace uri and token with your own
